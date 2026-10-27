@@ -1,0 +1,8 @@
+**/.obsidian/
+**/.trash/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.pem
+*.key
