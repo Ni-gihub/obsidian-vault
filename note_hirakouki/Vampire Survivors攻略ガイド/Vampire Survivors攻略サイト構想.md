@@ -195,7 +195,19 @@ noteに掲載した内容をそのままコピーするだけではなく、Web�
 
 技術構成はまだ確定していない。最初から複雑な仕組みを作り込まず、記事を追加・更新しやすい構成を優先する。
 
-## 10. 未決定事項
+## 10. デザイン設計
+
+デザインの検討項目・順序・参考資料は [[デザイン設計・検討項目]] を参照する。
+
+デザインの参考資料：
+
+- [SmartHR Design System](https://smarthr.design/)
+- [Idea Boost DESIGN.md](https://github.com/engineer-first/idea-boost/blob/develop/DESIGN.md)
+- [Google Labs DESIGN.md](https://github.com/google-labs-code/design.md)
+
+現在はページ内容・情報構成の設計を優先する。色、フォント、余白、コンポーネントなどの視覚的なルールは、ページ設計がまとまった後に検討し、最終的にこのサイト専用の `DESIGN.md` に整理する。
+
+## 11. 未決定事項
 
 - サイト名とドメイン
 - グローバルメニューの最終的な表示名・構成
